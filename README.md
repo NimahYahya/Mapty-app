@@ -1,6 +1,6 @@
 # Mapty-app
 
-<h3> Jonas Schmedtmann The Complete JavaScript Course 2020 <h3>
+<h3> Jonas Schmedtmann The Complete JavaScript Course 2020 </h3>
 
 <ul>Added features : 
 <hr>
